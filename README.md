@@ -1,4 +1,4 @@
-### ✨ Hi there, welcome ✨ 
+### ✨ Hi there, welcome... I'm Stefane ✨ 
 
 <!--
 **stefaneSI/stefaneSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="display: inline_block"><br>
+    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+<div>
+  <a href="https://www.linkedin.com/in/stefane-gon%C3%A7alves-de-brito-0b9643138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
