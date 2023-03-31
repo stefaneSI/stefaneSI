@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ##
 
-### Engenheira de Dados em constante aprendizado.
+Engenheira de Dados em constante aprendizado.
 
-### Patos de Minas - MG
+Patos de Minas - MG
 
 ##
 
