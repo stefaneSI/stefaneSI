@@ -1,4 +1,4 @@
-### ✨ Bem vindos! Eu sou a Stefane ✨ 
+### ✨ Olá! Eu sou a Stefane ✨ 
 
 <!--
 **stefaneSI/stefaneSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
