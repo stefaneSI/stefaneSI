@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 ##
 
-Engenheira de Dados em constante aprendizado.
+Engenheira de Dados:
+-GCP
+-Big Query
+-SQL
 
 Patos de Minas - MG
 
