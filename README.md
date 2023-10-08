@@ -21,6 +21,8 @@ Engenheira de Dados:
 - GCP
 - Big Query
 - SQL
+- Python
+- Google Analytics
 
 Patos de Minas - MG
 
