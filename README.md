@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 ##
 
 Engenheira de Dados:
--GCP
--Big Query
--SQL
+
+- GCP
+- Big Query
+- SQL
 
 Patos de Minas - MG
 
