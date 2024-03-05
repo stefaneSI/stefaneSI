@@ -1,4 +1,4 @@
-### ✨ Olá! Eu sou a Stefane ✨ 
+### ✨ Stefane Gonçalves de Brito ✨ 
 
 <!--
 **stefaneSI/stefaneSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,8 @@ Here are some ideas to get you started:
 -->
 ##
 
-Engenheira de Dados:
-
-- GCP
-- Big Query
-- SQL
-- Python
-- Google Analytics
-
-Patos de Minas - MG
+Engenheira de Dados morando em Patos de Minas - MG, com experiência em projetos de Dados com foco em transformar dados em informações estratégicas e alinhadas às diferentes necessidades dos clientes.
+Habilidades em Python, Big Data, Spark(Pyspark), Terraform, Docker, Cloud Composer(Airflow), BigQuery, Cloud Data Fusion(CDAP), Kubernetes Engine e em geral outros recursos da Google Cloud Plataform(GCP); ferramentas de controle de versões; Google Tag Manager, Firebase Analytics e Google Analytics.
 
 ##
 
