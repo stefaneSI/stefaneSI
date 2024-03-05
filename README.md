@@ -31,5 +31,6 @@ Habilidades em Python, Big Data, Spark(Pyspark), Terraform, Docker, Cloud Compos
   <a href="https://www.linkedin.com/in/stefane-gon%C3%A7alves-de-brito-0b9643138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
 </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/stefane-gon%C3%A7alves-de-brito-0b9643138/))
 
 ![Snake animation](https://github.com/stefaneSI/stefaneSI/blob/output/github-contribution-grid-snake.svg)
