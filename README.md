@@ -42,4 +42,8 @@ Habilidades em Python, Big Data, Spark(Pyspark), Terraform, Docker, Cloud Compos
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=purple)
 ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=purple)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefaneSI&theme=transparent&bg_color=000&border_color=795695&show_icons=true&icon_color=795695&title_color=A020F1&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stefaneSI&layout=compact&bg_color=000&border_color=795695&title_color=A020F1&text_color=FFF)
+
 ![Snake animation](https://github.com/stefaneSI/stefaneSI/blob/output/github-contribution-grid-snake.svg)
