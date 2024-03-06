@@ -27,7 +27,6 @@ Habilidades em Python, Big Data, Spark(Pyspark), Terraform, Docker, Cloud Compos
 ### Linguagens de Marcação e Estilo
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=purple)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=purple)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=purple)
 
 ### Cloud Computing Service
 
