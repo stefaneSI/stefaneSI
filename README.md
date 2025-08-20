@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 Engenheira de Dados morando em Patos de Minas - MG, com experiência em projetos de Dados com foco em transformar dados em informações estratégicas e alinhadas às diferentes necessidades dos clientes.
 Habilidades em Python, Big Data, Spark(Pyspark), Terraform, Docker, Cloud Composer(Airflow), BigQuery, Cloud Data Fusion(CDAP), Kubernetes Engine e em geral outros recursos da Google Cloud Plataform(GCP); ferramentas de controle de versões; Google Tag Manager, Firebase Analytics e Google Analytics.
+Certificação do Google Cloud Professional Data Engineer.
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=purple)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/stefane-gon%C3%A7alves-de-brito-0b9643138/))
@@ -38,7 +39,5 @@ Habilidades em Python, Big Data, Spark(Pyspark), Terraform, Docker, Cloud Compos
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefaneSI&theme=transparent&bg_color=000&border_color=795695&show_icons=true&icon_color=795695&title_color=A020F1&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stefaneSI&layout=compact&bg_color=000&border_color=795695&title_color=A020F1&text_color=FFF)
 
 ![Snake animation](https://github.com/stefaneSI/stefaneSI/blob/output/github-contribution-grid-snake.svg)
