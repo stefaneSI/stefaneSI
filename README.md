@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Engenheira de Dados morando em Patos de Minas - MG, com experiência em projetos de Dados com foco em transformar dados em informações estratégicas e alinhadas às diferentes necessidades dos clientes.
+Data Engineer morando em Patos de Minas - MG, com experiência em projetos de Dados com foco em transformar dados em informações estratégicas e alinhadas às diferentes necessidades dos clientes.
 Habilidades em Python, Big Data, Spark(Pyspark), Terraform, Docker, Cloud Composer(Airflow), BigQuery, Cloud Data Fusion(CDAP), Kubernetes Engine e em geral outros recursos da Google Cloud Plataform(GCP); ferramentas de controle de versões; Google Tag Manager, Firebase Analytics e Google Analytics.
 Certificação do Google Cloud Professional Data Engineer.
 
